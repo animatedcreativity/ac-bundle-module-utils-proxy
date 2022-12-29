@@ -1,0 +1,20 @@
+{
+  "name": "ac-bundle-module-utils-proxy",
+  "version": "0.0.3",
+  "description": "utils/proxy.js: A module bundled by ac-bundle-module.",
+  "main": "utils/proxy.js",
+  "scripts": {
+    "start": "node utils/proxy.js"
+  },
+  "keywords": [
+    "utils/proxy.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-bundle-module/modules/ac-bundle-module-utils-proxy/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
